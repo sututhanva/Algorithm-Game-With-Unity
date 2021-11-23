@@ -1,2 +1,2 @@
 # Algorithm-Game-With-Unity
-stage change 1
+stage change 2
